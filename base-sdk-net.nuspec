@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>11PathsApiBaseSDK</id>
+    <version>$version$</version>
+    <authors>ElevenPaths</authors>
+    <owners>ElevenPaths</owners>
+    <licenseUrl>https://github.com/Telefonica/base-sdk-net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Telefonica/base-sdk-net/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ElevenPaths API base sdk. This package manages ElevenPaths headers and its signing.</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2020. 11Paths</copyright>
+    <tags>11Paths, elevenpaths, basesdk, sdk, headers, api</tags>
+    <language>en-us</language>
+  </metadata>
+</package>
